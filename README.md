@@ -12,7 +12,7 @@
 
 The slides can be display directly via github gh-pages:
 
-    http://gjmurakami-10gen.github.com/talk-bcon/
+http://gjmurakami-10gen.github.com/talk-bcon/
 
 NOTES
 =====
